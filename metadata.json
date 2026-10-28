@@ -1,0 +1,6 @@
+{
+  "name": "Génie Civil Pro BF",
+  "description": "Application professionnelle de calculs de génie civil, métrés, dosages béton, armatures, maçonnerie et devis en FCFA pour le Burkina Faso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
